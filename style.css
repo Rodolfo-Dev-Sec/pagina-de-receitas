@@ -1,0 +1,81 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+
+.top-bar {
+    background-color: #ff6b28;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+#bolo {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#logo {
+    width: 200px;
+}
+
+.nome-receita {
+    max-width: 600px;
+    margin: auto;
+    color: #ff6b28;
+    margin-bottom: 50px;
+}
+
+.receita {
+    max-width: 450px;
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+h3 {
+    color: #ff6b28;
+    margin-bottom: 10px;
+}
+
+.ingredientes {
+    max-width: 400px;
+    margin: auto;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+.botao {
+    margin-top: 10px;
+    background-color: #ff6b28;
+    list-style: none;
+    text-align:justify;
+    width: 160px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+#rodape {
+    margin-top: 50px;
+    background-color: #ff6b28;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+.ajuste {
+    max-width: 450px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+
